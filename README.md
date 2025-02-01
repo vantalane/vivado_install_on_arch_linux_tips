@@ -14,13 +14,13 @@ I wanted to install Vivado 2023.1 on Arch. I had previously installed:\
 2024.1\
 2024.2\
 ...back when I was using Kubuntu on a separate drive, which run perfectly fine after I switched over to Arch.
-But for some reason I couldn't run the xinstall file of 2023.1, providing arguments such as batch  (./xinstall -b) wouldn't change anything.
+But for some reason I couldn't run the xinstall file of 2023.1, providing arguments such as batch  (./xsetup -b) wouldn't change anything.
 
 
 
 ## My problem:
 
-After making sure I have tried all the jre* and jdk* gobbledigooks, I kept getting the following:
+After making sure I have tried just installing all the jre* and jdk* gobbledigooks, I kept getting the following:
 
 ```
 ./xsetup 
