@@ -56,7 +56,7 @@ If you haven't yet, definitely get the following pkgs from AUR:
 - ncurses5-compat-libs
 - libxcrypt-compat
 
-This'll prevent you from Vivado installer getting stuck just before finishing off.
+This'll prevent your Vivado installer from getting stuck just before finishing off the install.
 
 
 ### Try different ENV variables
